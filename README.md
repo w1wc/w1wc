@@ -1,29 +1,34 @@
 # w1wc #
 
-Software Programming student specializing in backend development and structured web architectures. My focus lies in writing clean, maintainable Python code, deploying scalable web applications using Flask, and designing minimalist, dark-themed user interfaces.
+Software Programming student specializing in backend development and structured web architectures. Focused on writing clean, maintainable Python code and deploying minimalist, dark-themed user interfaces.
 
-## Technical Skills
+---
 
-* **Languages:** Python, SQL, HTML5, CSS3, JavaScript
-* **Frameworks & Libraries:** Flask, Tkinter
-* **Tools & Environments:** Git, GitHub, VS Code, Linux
+## Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter UI-3776AB?style=flat&logo=python&logoColor=white) |
+| **Ecosystem** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
 
 ## Featured Projects
 
-### [Project Name / e.g., Flask Web Portfolio]
-* Developed a dynamic web application utilizing the Flask framework.
-* Implemented clean backend logic alongside a custom, minimalist CSS user interface.
+### 💻 Web Development Portfolio
+* **Core:** Flask Framework & Custom CSS
+* **Architecture:** Developed clean backend routing coupled with a responsive, dark-mode web user interface.
 
-### [Project Name / e.g., Custom Desktop UI]
-* Designed and built a lightweight desktop application using Python and Tkinter.
-* Structured the architecture with a focus on dark-mode aesthetic optimization and clean code principles.
+### 🎛️ Custom Desktop Application
+* **Core:** Python & Tkinter
+* **Architecture:** Structured a lightweight user interface focused on design optimization and clean code principles.
 
-## Current Objectives
+---
 
-* Refining expertise in backend architecture, API routing, and database management.
-* Maintaining a consistent version control workflow and optimizing repository efficiency.
+## Development Objectives
 
-### Core Metrics
+* 🔹 Advanced backend architecture planning and RESTful API integration.
+* 🔹 Database normalization and persistent storage management.
+* 🔹 Version control automation and efficient repository asset workflows.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1wc&show_icons=false&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w1wc&layout=compact&theme=dark&hide_border=true)
